@@ -1,4 +1,4 @@
-c# HR Analytics Dashboard (Tableau)
+# HR Analytics Dashboard (Tableau)
 
 Welcome to the HR Analytics Dashboard! This tableau dashboard provides key insights into various HR metrics, enabling a comprehensive view of employee-related data.
 
