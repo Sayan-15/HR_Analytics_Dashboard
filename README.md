@@ -19,10 +19,9 @@ Welcome to the HR Analytics Dashboard! This tableau dashboard provides key insig
 - **Education-wise Attrition**: Attrition rates based on the education level of employees.
 - **Attrition Rate by Gender for Different Age Groups**: Attrition rates categorized by gender for different age groups.
 
-## Demo Video
-https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/assets/72929741/c5fe12b8-01da-4069-9520-bfa53d7419cb
+## Tableau File
 
-Check out the for a walkthrough of the HR Analytics Dashboard.
+Check out the tableau file [here](https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/blob/main/HR%20Analytics%20Dashboard.twb).
 
 ## Data Source
 
@@ -31,6 +30,11 @@ The dataset used for this analysis is available [here](https://github.com/Sayan-
 ## Background Image
 
 ![Background Image](https://github.com/Sayan-15/HR_Analytics_Dashboard/blob/main/HR%20background.png)
+
+## Demo Video
+https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/assets/72929741/c5fe12b8-01da-4069-9520-bfa53d7419cb
+
+Check out the for a walkthrough of the HR Analytics Dashboard.
 
 Feel free to explore the dashboard and gain valuable insights into the workforce dynamics!
 
