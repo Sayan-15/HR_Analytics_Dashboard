@@ -1,4 +1,4 @@
-# HR Analytics Dashboard (Tableau)
+c# HR Analytics Dashboard (Tableau)
 
 Welcome to the HR Analytics Dashboard! This tableau dashboard provides key insights into various HR metrics, enabling a comprehensive view of employee-related data.
 
@@ -31,7 +31,7 @@ The dataset used for this analysis is available [here]([LINK_TO_DATASET](https:/
 
 ## Background Image
 
-![Background Image]([LINK_TO_BACKGROUND_IMAGE](https://github.com/Sayan-15/HR_Analytics_Dashboard/blob/main/HR%20background.png))
+![Background Image](https://github.com/Sayan-15/HR_Analytics_Dashboard/blob/main/HR%20background.png)
 
 Feel free to explore the dashboard and gain valuable insights into the workforce dynamics!
 
