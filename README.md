@@ -20,13 +20,13 @@ Welcome to the HR Analytics Dashboard! This tableau dashboard provides key insig
 - **Attrition Rate by Gender for Different Age Groups**: Attrition rates categorized by gender for different age groups.
 
 ## Demo Video
-https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/blob/main/Demo%20Video%20-%20HR%20Analytics%20Dashboard%20(Tableau)%20(1)%20(1).mp4
+https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/assets/72929741/c5fe12b8-01da-4069-9520-bfa53d7419cb
 
 Check out the for a walkthrough of the HR Analytics Dashboard.
 
 ## Data Source
 
-The dataset used for this analysis is available [here]([LINK_TO_DATASET](https://github.com/Sayan-15/HR_Analytics_Dashboard/blob/main/HR%20Data.xlsx)).
+The dataset used for this analysis is available [here]([https://github.com/Sayan-15/HR_Analytics_Dashboard/blob/main/HR%20Data.xlsx)]).
 
 ## Background Image
 
