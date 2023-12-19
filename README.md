@@ -21,9 +21,9 @@ Welcome to the HR Analytics Dashboard! This tableau dashboard provides key insig
 
 ## Demo
 
-[![Watch the Demo](PLACEHOLDER_FOR_DEMO_THUMBNAIL)](LINK_TO_DEMO_VIDEO)
+[![Watch the Demo](PLACEHOLDER_FOR_DEMO_THUMBNAIL)]([LINK_TO_DEMO_VIDEO](https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/blob/main/Demo%20Video%20-%20HR%20Analytics%20Dashboard%20(Tableau)%20(1)%20(1).mp4))
 
-Check out the [demo video](LINK_TO_DEMO_VIDEO) for a walkthrough of the HR Analytics Dashboard.
+Check out the [demo video]([LINK_TO_DEMO_VIDEO](https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/blob/main/Demo%20Video%20-%20HR%20Analytics%20Dashboard%20(Tableau)%20(1)%20(1).mp4)) for a walkthrough of the HR Analytics Dashboard.
 
 ## Data Source
 
