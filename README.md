@@ -22,7 +22,7 @@ Welcome to the HR Analytics Dashboard! This tableau dashboard provides key insig
 ## Tableau File
 
 Check out the tableau file [here](https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/blob/main/HR%20Analytics%20Dashboard.twb).
-![image](https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/assets/72929741/280977bf-30ed-41f2-bf78-39f7fbfab9ef)
+![Tableau - HR Analytics Dashboard 19-12-2023 22_03_22](https://github.com/Sayan-15/HR_Analytics_Dashboard-Tableau/assets/72929741/6307d319-6a11-477e-80ac-0d2b7f9e7c1a)
 ## Data Source
 
 The dataset used for this analysis is available [here](https://github.com/Sayan-15/HR_Analytics_Dashboard/blob/main/HR%20Data.xlsx).
