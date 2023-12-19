@@ -26,7 +26,7 @@ Check out the for a walkthrough of the HR Analytics Dashboard.
 
 ## Data Source
 
-The dataset used for this analysis is available [here]https://github.com/Sayan-15/HR_Analytics_Dashboard/blob/main/HR%20Data.xlsx
+The dataset used for this analysis is available ![Data Source](https://github.com/Sayan-15/HR_Analytics_Dashboard/blob/main/HR%20Data.xlsx)
 
 ## Background Image
 
